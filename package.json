@@ -1,0 +1,22 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fun.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amalcxc/Testing-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amalcxc/Testing-practice/issues"
+  },
+  "homepage": "https://github.com/Amalcxc/Testing-practice#readme",
+  "devDependencies": {
+    "jest": "^27.2.4"
+  }
+}
